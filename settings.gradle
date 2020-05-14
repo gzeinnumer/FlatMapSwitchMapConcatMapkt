@@ -1,0 +1,2 @@
+rootProject.name='FlatMapSwitchMapConcatMapkt'
+include ':app'
